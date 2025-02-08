@@ -90,7 +90,7 @@ table td {
   padding: 0.8rem 0 0.8rem 2rem;
   border-bottom: 1px solid var(--stone-150);
 }
-table td b {
+table td strong {
   color: var(--brown-800);
 }
 @media (max-width: 375px) {
